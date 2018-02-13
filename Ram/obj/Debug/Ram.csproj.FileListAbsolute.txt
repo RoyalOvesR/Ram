@@ -1,0 +1,13 @@
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\bin\Debug\Ram.exe.config
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\bin\Debug\Ram.exe
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\bin\Debug\Ram.pdb
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.csprojResolveAssemblyReference.cache
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.Form1.resources
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.Properties.Resources.resources
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.csproj.GenerateResource.Cache
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.exe
+c:\users\royalovesr\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.pdb
+C:\Users\RoyalOvesR\documents\visual studio 2012\Projects\Ram\Ram\bin\Debug\Ram.exe.manifest
+C:\Users\RoyalOvesR\documents\visual studio 2012\Projects\Ram\Ram\bin\Debug\Ram.application
+C:\Users\RoyalOvesR\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.exe.manifest
+C:\Users\RoyalOvesR\documents\visual studio 2012\Projects\Ram\Ram\obj\Debug\Ram.application
